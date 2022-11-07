@@ -82,4 +82,4 @@ pd.DataFrame.clip = clip
 pd.DataFrame.agg_df = agg_df
 pd.DataFrame.handle_missing = handle_missing
 pd.DataFrame.return_join_table = return_join_table
-pd.DataFrame.return_sorted_columns = return_sorted_columns
+pd.DataFrame.cols = cols
