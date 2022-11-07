@@ -72,7 +72,7 @@ def return_join_table(self, col_list):
     self=k.copy()
     return self
 
-def return_sorted_columns(self):#this is for more general situations
+def cols(self):#this is for more general situations
     return sorted(self.columns.to_list())
 
 
